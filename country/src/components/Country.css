@@ -1,0 +1,54 @@
+.cardMain{
+    width: 200px;
+    height: 300px;
+}
+
+.app.dark .navbar{
+    background-color: hsl(207, 26%, 17%);
+}
+.app.light .navbar{
+    background-color: hsl(0, 0%, 100%);
+}
+
+.app.dark .navbar-brand h2{
+    color: rgb(255, 255, 255);
+  }
+
+
+
+
+  .countryInfo{
+    background-color: hsl(0, 0%, 100%);
+  }
+
+  .app.dark .countryInfo{
+    background-color: hsl(209, 23%, 22%);
+    color: hsl(0, 0%, 100%);
+  }
+
+  .app.dark .input-group-text{
+    background-color: white!important;
+  }
+  .app.light .input-group-text{
+    background-color: white!important;
+  }
+
+
+  .theme-toggle-btn{
+    border: 0;
+    outline: 0;
+    background-color: transparent;
+  }
+
+
+  .app.dark .theme-toggle-btn .moonIcon{
+    display: none;
+  }
+
+  .app.light .theme-toggle-btn .sunIcon{
+    display: none;
+  }
+
+  .app.dark .countryDetailSec{
+    color: white;
+  }
