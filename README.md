@@ -4,7 +4,7 @@ A simple React application that allows users to explore countries, view details,
 
 ## Demo 🚀
 
-Live demo: [Demo Link](https://countries-app-eneseken.com)
+Live demo: [Demo Link](https://countries-app-eneseken.netlify.app)
 
 ![desktop-preview](https://github.com/eneseken/Countries-Api/assets/83923806/c3c4b074-bfd7-4301-8e12-20d9b49e4d84)
 
